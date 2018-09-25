@@ -40,7 +40,7 @@ This requires the user to stay logged in the same machine for the duration of th
 On an lxplus machine, type the following:
 
 ```
-git clone https://github.com/selvaggi/GridPackProducer
+git clone https://github.com/FCC-hh-framework/GridPackProducer
 cd GridPackProducer/MG5_aMCatNLO/
 ./gridpack_generation.sh [output_folder] [cards_folder] [queue]
 ```
